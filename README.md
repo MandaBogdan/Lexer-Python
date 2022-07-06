@@ -13,5 +13,5 @@ Implementarea lexerului complet presupune:
 3. Implementarea procedurii de analiza lexicala
 
 Transformarea Regex-AFD permite operationalizarea expresiilor regulate si este realizata in doi pasi:
--transformarea Regex → AFN
--transformarea AFN → AFD
+- transformarea Regex → AFN
+- transformarea AFN → AFD
